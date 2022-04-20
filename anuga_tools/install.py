@@ -35,9 +35,8 @@ shutil.copy2(src1, dst1)
 
 src2 = os.path.join(path,file2)
 dst2 = os.path.join(path_to_anuga,file2)
-shutil.copy2(src2, dst2)
+#shutil.copy2(src2, dst2)
 
-# Copy files
 src3 = os.path.join(path,file3)
 dst3 = os.path.join(path_to_anuga,'shallow_water',file1)
 shutil.copy2(src3, dst3)
