@@ -4,7 +4,7 @@ Grabs relevant USGS/NOAA data based on information in settings.py
 """
 import pandas as pd
 import os
-from settings import *
+from .settings import *
 import noaa_coops as nc
 from nwis import Nwis
 nwis_data = Nwis()

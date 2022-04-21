@@ -7,8 +7,8 @@ Interpolates .ASCII raster onto unstructured mesh
 # ------------------------------------------------------------------------------
 import numpy as np
 import anuga
-from settings import topography_source, base_res
-from tools import GenerateDomainGeometry
+from .settings import topography_source, base_res
+from .tools import GenerateDomainGeometry
 
 # FILE CONVERSIONS--------------------------------------------------------------
 # Note: If starting from GeoTIFF, need to convert to ASCII. Optional command below:

@@ -18,8 +18,8 @@ import anuga
 from anuga.utilities import animate
 from anuga import Inlet_operator, distribute, myid, numprocs, finalize, barrier
 from anuga.operators.baptist_operator import Baptist_operator
-from settings import *
-from tools import *
+from .settings import *
+from .tools import *
 
 args = anuga.get_args()
 alg = args.alg

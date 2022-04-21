@@ -12,7 +12,7 @@ from osgeo import gdal
 import os
 import glob
 import anuga
-from settings import *
+from .settings import *
 
 # ------------------------------------------------------------------------------
 # Boundary condition functions
