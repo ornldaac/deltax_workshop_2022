@@ -20,7 +20,6 @@ Module 5: Water quality indicators
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/achri19/DeltaXWorkshop_Field/blob/main/notebooks/Water_Quality_Indicators.ipynb)
 
 Module 6: Total Suspended Solids
-
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/achri19/DeltaXWorkshop_Field/blob/main/notebooks/TSS.ipynb)
 
 Module 7: Sediment Grain Size
