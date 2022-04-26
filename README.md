@@ -8,7 +8,7 @@ Module 1: Biomass
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/achri19/DeltaXWorkshop_Field/blob/main/notebooks/Biomass.ipynb)
 
 Module 2: Accretion
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/achri19/DeltaXWorkshop_Field/blob/main/notebooks/Sediment Accretion.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/achri19/DeltaXWorkshop_Field/blob/main/notebooks/Sediment_Accretion.ipynb)
 
 Module 3: ADCP
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/achri19/DeltaXWorkshop_Field/blob/main/notebooks/ADCP.ipynb)
@@ -23,4 +23,4 @@ Module 6: Total Suspended Solids
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/achri19/DeltaXWorkshop_Field/blob/main/notebooks/TSS.ipynb)
 
 Module 7: Sediment Grain Size
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/achri19/DeltaXWorkshop_Field/blob/main/notebooks/Sediment Grain Size.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/achri19/DeltaXWorkshop_Field/blob/main/notebooks/Sediment_Grain_Size.ipynb)
