@@ -69,7 +69,7 @@ base_res = 625 # 25m res, background resolution outside interior polygons
 
 # INITIAL CONDITIONS------------------------------------------------------------
 # Input file for topographic data
-topography_source = r'BathymetryPolygons/WLAD2_topo_Carved-ndwi.asc'
+topography_source = r'BathymetryPolygons/WLAD_topo.asc'
 # Hot start files from a previous run
 IC_depth_source = r'BoundaryConditions/IC_depth.csv'
 IC_xmom_source = r'BoundaryConditions/IC_xmom.csv'
