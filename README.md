@@ -8,7 +8,7 @@ Module 1: Biomass
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/achri19/DeltaXWorkshop_Field/blob/main/notebooks/Module1_Biomass.ipynb)
 
 Module 2: Accretion
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/achri19/DeltaXWorkshop_Field/blob/main/notebooks/Module2_Sediment%20Accretion.ipynb
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/achri19/DeltaXWorkshop_Field/blob/main/notebooks/Module2_Sediment%20Accretion.ipynb)
 
 Module 3: ADCP
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/achri19/DeltaXWorkshop_Field/blob/main/notebooks/Module3_ADCP.ipynb)
