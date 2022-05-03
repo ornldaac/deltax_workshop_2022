@@ -1,1 +1,1 @@
-# DeltaX_Applications_Workshop_AVIRIS-NG
+# DeltaX Open Data Workshop 2022: AVIRIS-NG
