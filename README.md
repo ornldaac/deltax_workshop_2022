@@ -11,12 +11,12 @@ This workshop introduces users to Delta-X datasets and steps for analyzing field
 ## 2. Field Data
 - [Field Data Overview and Access](slides/DeltaX_FieldData_Apps_Workshop_Christensen.pdf)
 - Tutorials
-  - [Above and Belowground biomass](tutorials/field_data/DeltaXWorkshop_Field/notebooks_V2/Module1_Biomass.ipynb)
-  - [Sediment Accretion Using Feldspar](tutorials/field_data/DeltaXWorkshop_Field/notebooks_V2/Module_2_Sediment_Accretion.ipynb)
-  - [Accoustic Doppler Current Profiler](tutorials/field_data/DeltaXWorkshop_Field/notebooks_V2/Module3_ADCP.ipynb)
-  - [Water Level Gauges](tutorials/field_data/DeltaXWorkshop_Field/notebooks_V2/Module4_Gauges.ipynb)
-  - [Water Quality Indicators and Total Suspended Solids](tutorials/field_data/DeltaXWorkshop_Field/notebooks_V2/Module5_Water_Quality.ipynb)
-  - [Sediment Grain Size (Bed and Suspended)](tutorials/field_data/DeltaXWorkshop_Field/notebooks_V2/Module6_Grain_Size.ipynb)
+  - [Above and Belowground biomass](tutorials/DeltaXWorkshop_Field/notebooks_V2/Module1_Biomass.ipynb)
+  - [Sediment Accretion Using Feldspar](tutorials/DeltaXWorkshop_Field/notebooks_V2/Module_2_Sediment_Accretion.ipynb)
+  - [Accoustic Doppler Current Profiler](tutorials/DeltaXWorkshop_Field/notebooks_V2/Module3_ADCP.ipynb)
+  - [Water Level Gauges](tutorials/DeltaXWorkshop_Field/notebooks_V2/Module4_Gauges.ipynb)
+  - [Water Quality Indicators and Total Suspended Solids](tutorials/DeltaXWorkshop_Field/notebooks_V2/Module5_Water_Quality.ipynb)
+  - [Sediment Grain Size (Bed and Suspended)](tutorials/DeltaXWorkshop_Field/notebooks_V2/Module6_Grain_Size.ipynb)
 ## 3. Airborne Visible/Infrared Imaging Spectrometer—Next Generation (AVIRIS-NG)
 - [AVIRIS-NG Data Overview and Access](slides/DeltaX_AVIRISNG_Apps_Workshop_Jensen.pdf)
 - Tutorials
