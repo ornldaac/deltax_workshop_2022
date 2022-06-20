@@ -38,7 +38,7 @@ This workshop introduces users to Delta-X datasets and steps for analyzing field
 ## 7. Delft3D Model
 - [Delft3D model](slides/DeltaX_Delft3d_Apps_Workshop_Cortese.pdf)
 - Tutorials
-  - [Set up Delft3D model for Delta-X]()
+  - [Set up Delft3D model for Delta-X](tutorials/Delft3D)
 
 # Authorship
 These slides and tutorials were developed by:
