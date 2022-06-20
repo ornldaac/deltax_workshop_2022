@@ -28,13 +28,13 @@ This workshop introduces users to Delta-X datasets and steps for analyzing field
   - [Comparing AirSWOT to In Situ Data](tutorials/DeltaX_Applications_Workshop_AirSWOT/3_Comparing_AirSWOT_to_In_Situ_Data.ipynb)
 ## 5. UAVSAR Data Overview and Access
 - Tutorials
-  - [Open L3 Delta-X UAVSAR data](tutorials/deltax_applications_workshop/deltax_l1_slc.ipynb)
+  - [Open L1 Delta-X UAVSAR data](tutorials/deltax_applications_workshop/deltax_l1_slc.ipynb)
   - [Open L1b L2 Delta-X UAVSAR data](tutorials/deltax_applications_workshop/deltax_l1b_l2_interferograms.ipynb)
-  - [Open L1 Delta-X UAVSAR data](tutorials/deltax_applications_workshop/deltax_l3_wlc_time_steps.ipynb)
+  - [Open L3 Delta-X UAVSAR data](tutorials/deltax_applications_workshop/deltax_l3_wlc_time_steps.ipynb)
 ## 6. ANUGA Model
 - [ANUGA Model Tutorial](slides/DeltaX_ANUGA_Apps_Workshop_Wright.pdf)
 - Tutorials
-  - [Wax Lake & Atchafalaya Delta Model]()
+  - [Wax Lake & Atchafalaya Delta Model](tutorials/ANUGA_DXWorkshop)
 ## 7. Delft3D Model
 - [Delft3D model](slides/DeltaX_Delft3d_Apps_Workshop_Cortese.pdf)
 - Tutorials
