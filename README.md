@@ -1,8 +1,8 @@
 #  Delta-X Applications Workshop (May 4-5, 2022)
 
-The Delta-X mission is a 5-year NASA Earth Venture Suborbital-3 mission to study the Mississippi River Delta in the United States, which is growing and sinking in different areas. River deltas and their wetlands are drowning as a result of sea level rise and reduced sediment inputs. The Delta-X mission will determine which parts will survive and continue to grow, and which parts will be lost. Delta-X begins with airborne and in-situ data acquisition and carries through data analysis, model integration, and validation to predict the extent and spatial patterns of future deltaic land loss or gain.
+The [Delta-X mission](https://deltax.jpl.nasa.gov/) is a 5-year NASA Earth Venture Suborbital-3 mission to study the Mississippi River Delta in the United States, which is growing and sinking in different areas. River deltas and their wetlands are drowning as a result of sea level rise and reduced sediment inputs. The Delta-X mission will determine which parts will survive and continue to grow, and which parts will be lost. Delta-X begins with airborne and in-situ data acquisition and carries through data analysis, model integration, and validation to predict the extent and spatial patterns of future deltaic land loss or gain.
 
-This workshop introduces users to Delta-X datasets and steps for analyzing field, airborne, and modeling datasets. There are 6 tutorials in the workshop, one for each of the data and model components. Each tutorial contains a few modules.
+This workshop introduces users to Delta-X datasets and steps for analyzing field, airborne, and modeling datasets. There are 6 tutorials in the workshop, one for each of the data and model components. Each tutorial contains a few modules. The datasets needed to run the tutorials are available at the [ORNL DAAC](https://daac.ornl.gov/deltax).
 
 ## 1. Introduction
 - [Delta-X Overview](slides/DeltaX_Overview_Apps_Workshop_Simard.pdf)
@@ -40,7 +40,9 @@ This workshop introduces users to Delta-X datasets and steps for analyzing field
 - Tutorials
   - [Set up Delft3D model for Delta-X]()
 
-These slides and tutorials were developed by following:
+# Authorship
+These slides and tutorials were developed by:
+- Introduction - Marc Marc Simard & Cathleen Jones
 - Field Data – Alex Christensen
 - AVIRIS-NG – Daniel Jensen
 - AirSWOT – Michael Denbina
