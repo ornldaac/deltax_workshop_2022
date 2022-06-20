@@ -20,7 +20,7 @@ This workshop introduces users to Delta-X datasets and steps for analyzing field
 ## 3. Airborne Visible/Infrared Imaging Spectrometer—Next Generation (AVIRIS-NG)
 - [AVIRIS-NG Data Overview and Access](slides/DeltaX_AVIRISNG_Apps_Workshop_Jensen.pdf)
 - Tutorials
-  - [AVIRIS-NG Application]()
+  - [AVIRIS-NG Application](tutorials/DeltaX_Workshop_AVIRIS-NG/DeltaX_OpenDataWorkshop_AVIRIS-NG.ipynb)
 ## 4. AirSWOT Data Overview, Access and Application
 - Tutorials
   - [AirSWOT Data Introduction]()
