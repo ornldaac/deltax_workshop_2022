@@ -23,9 +23,9 @@ This workshop introduces users to Delta-X datasets and steps for analyzing field
   - [AVIRIS-NG Application](tutorials/DeltaX_Workshop_AVIRIS-NG/DeltaX_OpenDataWorkshop_AVIRIS-NG.ipynb)
 ## 4. AirSWOT Data Overview, Access and Application
 - Tutorials
-  - [AirSWOT Data Introduction]()
-  - [Estimating Water Surface Elevation and Slope from AirSWOT]()
-  - [Comparing AirSWOT to In Situ Data]()
+  - [AirSWOT Data Introduction](tutorials/DeltaX_Applications_Workshop_AirSWOT/1_AirSWOT_Data_Introduction.ipynb)
+  - [Estimating Water Surface Elevation and Slope from AirSWOT](tutorials/DeltaX_Applications_Workshop_AirSWOT/2_Estimating_Water_Surface_Elevation_and_Slope_from_AirSWOT.ipynb)
+  - [Comparing AirSWOT to In Situ Data](tutorials/DeltaX_Applications_Workshop_AirSWOT/3_Comparing_AirSWOT_to_In_Situ_Data.ipynb)
 ## 5. UAVSAR Data Overview and Access
 - Tutorials
   - [Open L3 Delta-X UAVSAR data]()
