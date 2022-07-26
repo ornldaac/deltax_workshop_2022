@@ -8,6 +8,7 @@ Lecture content and Notebook material as presented are organized and available h
 
 ## 1. Introduction 
 (***Marc Simard & Cathleen Jones***)
+- [Workshop Agenda](slides/DeltaX_Intro_Apps_Workshop_Zheng.pdf)
 - [Delta-X Overview](slides/DeltaX_Overview_Apps_Workshop_Simard.pdf)
 - [Data Management Plan and Data Archive](slides/DeltaX_DataOverview_Apps_Workshop_Jones.pdf)
 
