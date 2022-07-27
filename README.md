@@ -6,6 +6,8 @@ In this two-day workshop, the scientists covered an introduction to Delta-X data
 
 Lecture content and Notebook material as presented are organized and available here.
 
+- [Workshop Instructions](tutorials/Final_DeltaX_Applications_Workshop_Instructions_re.pdf)
+
 ## Introduction 
 (***Marc Simard & Cathleen Jones***)
 - [Workshop Agenda](slides/DeltaX_Intro_Apps_Workshop_Zheng.pdf)
