@@ -59,6 +59,7 @@ Lecture content and Notebook material as presented are organized and available h
   
 # Past workshops
  - **Delta-X Open Data Workshop, November 17, 2021**
+   - [Agenda](DeltaX_2021/2021_Delta-X_Open_Data_Workshop_Agenda.pdf)
    - [Introduction to Delta-X](DeltaX_2021/2021_Delta-X_Open_Data_Workshop_Introduction.pdf) - Marc Simard
    - [Datasets](DeltaX_2021/2021_Delta-X_Open_Data_Workshop_Datasets.pdf) - Sarah Flores
    - [Accessing Delta-X data at the ORNL DAAC](DeltaX_2021/2021_Delta-X_Open_Data_Workshop_ORNL_DAAC.pdf) - Matt Donovan
