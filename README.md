@@ -54,3 +54,10 @@ Lecture content and Notebook material as presented are organized and available h
 - [Delft3D model](slides/DeltaX_Delft3d_Apps_Workshop_Cortese.pdf)
 - Tutorials
   - [Set up Delft3D model for Delta-X](tutorials/Delft3D)
+  
+# Past workshops
+ - **Delta-X Open Data Workshop, November 17, 2021**
+   - [Introduction to Delta-X](DeltaX_2021/2021_Delta-X_Open_Data_Workshop_Introduction.pdf) - Marc Simard
+   - [Data Location and Access](DeltaX_2021/DeltaX_2021/2021_Delta-X_Open_Data_Workshop_Datasets.pdf) - 
+   - [Accessing Delta-X dataset at ORNL DAAC](DeltaX_2021/2021_Delta-X_Open_Data_Workshop_ORNL_DAAC.pdf) - Matt Donovan
+   - [Data Location and Access](DeltaX_2021/2021_Delta-X_Open_Data_Workshop_Website.pdf) - Sarah Flores
