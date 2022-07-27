@@ -6,14 +6,14 @@ In this two-day workshop, the scientists covered an introduction to Delta-X data
 
 Lecture content and Notebook material as presented are organized and available here.
 
-## 1. Introduction 
+## Introduction 
 (***Marc Simard & Cathleen Jones***)
 - [Workshop Agenda](slides/DeltaX_Intro_Apps_Workshop_Zheng.pdf)
 - [Delta-X Overview](slides/DeltaX_Overview_Apps_Workshop_Simard.pdf)
 - [Data Management Plan and Data Archive](slides/DeltaX_DataOverview_Apps_Workshop_Jones.pdf)
 
-## 2. Field Data
-(***Alex Christensen***)
+## Tutorial 1. Field Data
+***Instructor: Alex Christensen***
 - [Field Data Overview and Access](slides/DeltaX_FieldData_Apps_Workshop_Christensen.pdf)
 - Tutorials
   - [Above and Belowground biomass](tutorials/DeltaXWorkshop_Field/notebooks_V2/Module1_Biomass.ipynb)
@@ -23,34 +23,34 @@ Lecture content and Notebook material as presented are organized and available h
   - [Water Quality Indicators and Total Suspended Solids](tutorials/DeltaXWorkshop_Field/notebooks_V2/Module5_Water_Quality.ipynb)
   - [Sediment Grain Size (Bed and Suspended)](tutorials/DeltaXWorkshop_Field/notebooks_V2/Module6_Grain_Size.ipynb)
 
-## 3. Airborne Visible/Infrared Imaging Spectrometer—Next Generation (AVIRIS-NG)
-(***Daniel Jensen***)
+## Tutorial 2. Airborne Visible/Infrared Imaging Spectrometer—Next Generation (AVIRIS-NG)
+***Instructor: Daniel Jensen***
 - [AVIRIS-NG Data Overview and Access](slides/DeltaX_AVIRISNG_Apps_Workshop_Jensen.pdf)
 - Tutorials
   - [AVIRIS-NG Application](tutorials/DeltaX_Workshop_AVIRIS-NG/DeltaX_OpenDataWorkshop_AVIRIS-NG.ipynb)
 
-## 4. AirSWOT Data Overview, Access and Application
-(***Michael Denbina***)
+## Tutorial 3. AirSWOT Data Overview, Access and Application
+***Instructor: Michael Denbina***
 - Tutorials
   - [AirSWOT Data Introduction](tutorials/DeltaX_Applications_Workshop_AirSWOT/1_AirSWOT_Data_Introduction.ipynb)
   - [Estimating Water Surface Elevation and Slope from AirSWOT](tutorials/DeltaX_Applications_Workshop_AirSWOT/2_Estimating_Water_Surface_Elevation_and_Slope_from_AirSWOT.ipynb)
   - [Comparing AirSWOT to In Situ Data](tutorials/DeltaX_Applications_Workshop_AirSWOT/3_Comparing_AirSWOT_to_In_Situ_Data.ipynb)
 
-## 5. UAVSAR Data Overview and Access
-(***Talib Oliver Cabrera***)
+## Tutorial 4. UAVSAR Data Overview and Access
+***Instructor: Talib Oliver Cabrera***
 - Tutorials
   - [Open L1 Delta-X UAVSAR data](tutorials/deltax_applications_workshop/deltax_l1_slc.ipynb)
   - [Open L1b L2 Delta-X UAVSAR data](tutorials/deltax_applications_workshop/deltax_l1b_l2_interferograms.ipynb)
   - [Open L3 Delta-X UAVSAR data](tutorials/deltax_applications_workshop/deltax_l3_wlc_time_steps.ipynb)
 
-## 6. ANUGA Model
-(***Kyle Wright***)
+## Tutorial 5. ANUGA Model
+***Instructor: Kyle Wright***
 - [ANUGA Model Tutorial](slides/DeltaX_ANUGA_Apps_Workshop_Wright.pdf)
 - Tutorials
   - [Wax Lake & Atchafalaya Delta Model](tutorials/ANUGA_DXWorkshop)
 
-## 7. Delft3D Model
-(***Luca Cortese***)
+## Tutorial 6. Delft3D Model
+***Instructor: Luca Cortese***
 - [Delft3D model](slides/DeltaX_Delft3d_Apps_Workshop_Cortese.pdf)
 - Tutorials
   - [Set up Delft3D model for Delta-X](tutorials/Delft3D)
