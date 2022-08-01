@@ -13,7 +13,7 @@ Lecture content and Notebook material as presented are organized and available h
 - [Workshop Agenda](slides/DeltaX_Intro_Apps_Workshop_Zheng.pdf)
 - [Delta-X Overview](slides/DeltaX_Overview_Apps_Workshop_Simard.pdf)
 - [Data Management Plan and Data Archive](slides/DeltaX_DataOverview_Apps_Workshop_Jones.pdf)
-- Video: https://youtu.be/0xR00Jd0kNw
+- Recording: https://youtu.be/0xR00Jd0kNw
 
 ## Tutorial 1. Field Data
 ***Instructor: Alex Christensen***
@@ -25,15 +25,15 @@ Lecture content and Notebook material as presented are organized and available h
   - [Water Level Gauges](tutorials/DeltaXWorkshop_Field/notebooks_V2/Module4_Gauges.ipynb)
   - [Water Quality Indicators and Total Suspended Solids](tutorials/DeltaXWorkshop_Field/notebooks_V2/Module5_Water_Quality.ipynb)
   - [Sediment Grain Size (Bed and Suspended)](tutorials/DeltaXWorkshop_Field/notebooks_V2/Module6_Grain_Size.ipynb)
- - Video: https://youtu.be/22OaPduBsb8
+ - Recording: https://youtu.be/22OaPduBsb8
 
 
 ## Tutorial 2. Airborne Visible/Infrared Imaging Spectrometer—Next Generation (AVIRIS-NG)
 ***Instructor: Daniel Jensen***
 - Slides: [AVIRIS-NG Data Overview and Access](slides/DeltaX_AVIRISNG_Apps_Workshop_Jensen.pdf)
-- Notebooks:
+- Notebook:
   - [AVIRIS-NG Application](tutorials/DeltaX_Workshop_AVIRIS-NG/DeltaX_OpenDataWorkshop_AVIRIS-NG.ipynb)
-- Videos: 
+- Recordings: 
   - Part I: https://youtu.be/Ht9JdXmzKZI
   - Part II: https://youtu.be/Ddkd2B7YG0Q
 
@@ -43,7 +43,7 @@ Lecture content and Notebook material as presented are organized and available h
   - [AirSWOT Data Introduction](tutorials/DeltaX_Applications_Workshop_AirSWOT/1_AirSWOT_Data_Introduction.ipynb)
   - [Estimating Water Surface Elevation and Slope from AirSWOT](tutorials/DeltaX_Applications_Workshop_AirSWOT/2_Estimating_Water_Surface_Elevation_and_Slope_from_AirSWOT.ipynb)
   - [Comparing AirSWOT to In Situ Data](tutorials/DeltaX_Applications_Workshop_AirSWOT/3_Comparing_AirSWOT_to_In_Situ_Data.ipynb)
-- Video: https://youtu.be/PkuNEhInoQo
+- Recording: https://youtu.be/PkuNEhInoQo
 
 ## Tutorial 4. UAVSAR Data Overview and Access
 ***Instructor: Talib Oliver Cabrera***
@@ -51,23 +51,23 @@ Lecture content and Notebook material as presented are organized and available h
   - [Open L1 Delta-X UAVSAR data](tutorials/deltax_applications_workshop/deltax_l1_slc.ipynb)
   - [Open L1b L2 Delta-X UAVSAR data](tutorials/deltax_applications_workshop/deltax_l1b_l2_interferograms.ipynb)
   - [Open L3 Delta-X UAVSAR data](tutorials/deltax_applications_workshop/deltax_l3_wlc_time_steps.ipynb)
-- Videos:
+- Recordings:
   - Part I: https://youtu.be/WBjDbxfVQKI
   - Part II: https://youtu.be/q6BsxX8Bezk
 
 ## Tutorial 5. ANUGA Model
 ***Instructor: Kyle Wright***
 - Slides: [ANUGA Model Tutorial](slides/DeltaX_ANUGA_Apps_Workshop_Wright.pdf)
-- Notebooks:
+- Notebook:
   - [Wax Lake & Atchafalaya Delta Model](tutorials/ANUGA_DXWorkshop)
-- Video: https://youtu.be/Vee-pPyRefg
+- Recording: https://youtu.be/Vee-pPyRefg
 
 ## Tutorial 6. Delft3D Model
 ***Instructor: Luca Cortese***
 - Slides: [Delft3D model](slides/DeltaX_Delft3d_Apps_Workshop_Cortese.pdf)
-- Notebooks:
+- Notebook:
   - [Set up Delft3D model for Delta-X](tutorials/Delft3D)
-- Video: https://youtu.be/RcGytRMDDIE
+- Recording: https://youtu.be/RcGytRMDDIE
   
 # Past workshops
  - **Delta-X Open Data Workshop, November 17, 2021**
@@ -76,4 +76,4 @@ Lecture content and Notebook material as presented are organized and available h
    - [Datasets](DeltaX_2021/2021_Delta-X_Open_Data_Workshop_Datasets.pdf) - Cathleen Jones
    - [Accessing Delta-X data at the ORNL DAAC](DeltaX_2021/2021_Delta-X_Open_Data_Workshop_ORNL_DAAC.pdf) - Matt Donovan
    - [Data Location and Access](DeltaX_2021/2021_Delta-X_Open_Data_Workshop_Website.pdf) - Sarah Flores
-   - [Video recording](https://deltax.jpl.nasa.gov/science/presentations/2021-open-data-workshop/2021_Delta-X_Open_Data_Workshop_webex_recording.mp4)
+   - [Recording](https://deltax.jpl.nasa.gov/science/presentations/2021-open-data-workshop/2021_Delta-X_Open_Data_Workshop_webex_recording.mp4)
