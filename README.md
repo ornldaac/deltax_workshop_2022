@@ -1,6 +1,6 @@
 #  Delta-X Applications Workshop (May 4-5, 2022)
 
-The [DeltaX Science Team](https://deltax.jpl.nasa.gov/) developed and conducted a Delta-X Applications Workshop on May 4th and 5th, 2022, which was held virtually and in person at The Estuary at the Water Campus Baton Rouge, Louisiana.
+The [Delta-X Science Team](https://deltax.jpl.nasa.gov/science/team/) developed and conducted a Delta-X Applications Workshop on May 4th and 5th, 2022, which was held virtually and in person at The Estuary at the Water Campus Baton Rouge, Louisiana.
 
 In this two-day workshop, the scientists covered an introduction to Delta-X datasets and steps for analyzing field, airborne, and modeling datasets. There are six tutorials in the workshop, one for each data and model component. The datasets needed to run the tutorials are available at the [ORNL DAAC](https://daac.ornl.gov/deltax).
 
@@ -9,7 +9,7 @@ Lecture content and Notebook material as presented are organized and available h
 - [Workshop Instructions](tutorials/Final_DeltaX_Applications_Workshop_Instructions_re.pdf)
 
 ## Introduction 
-(***Marc Simard & Cathleen Jones***)
+(***Marc Simard, Cathleen Jones & Yang Zheng***)
 - [Workshop Agenda](slides/DeltaX_Intro_Apps_Workshop_Zheng.pdf)
 - [Delta-X Overview](slides/DeltaX_Overview_Apps_Workshop_Simard.pdf)
 - [Data Management Plan and Data Archive](slides/DeltaX_DataOverview_Apps_Workshop_Jones.pdf)
