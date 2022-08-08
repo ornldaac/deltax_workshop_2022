@@ -10,14 +10,14 @@ Lecture content and Notebook material as presented are organized and available h
 
 ## Introduction 
 (***Marc Simard, Cathleen Jones & Yang Zheng***)
-- [Workshop Agenda](slides/DeltaX_Intro_Apps_Workshop_Zheng.pdf)
-- [Delta-X Overview](slides/DeltaX_Overview_Apps_Workshop_Simard.pdf)
-- [Data Management Plan and Data Archive](slides/DeltaX_DataOverview_Apps_Workshop_Jones.pdf)
+- [Workshop Agenda](https://github.com/ornldaac/deltax_workshop_2022/raw/main/slides/DeltaX_Intro_Apps_Workshop_Zheng.pdf)
+- [Delta-X Overview](https://github.com/ornldaac/deltax_workshop_2022/raw/main/slides/DeltaX_Overview_Apps_Workshop_Simard.pdf)
+- [Data Management Plan and Data Archive](https://github.com/ornldaac/deltax_workshop_2022/raw/main/slides/DeltaX_DataOverview_Apps_Workshop_Jones.pdf)
 - Recording: https://youtu.be/0xR00Jd0kNw
 
 ## Tutorial 1. Field Data
 ***Instructor: Alex Christensen***
-- Slides: [Field Data Overview and Access](slides/DeltaX_FieldData_Apps_Workshop_Christensen.pdf)
+- Slides: [Field Data Overview and Access](https://github.com/ornldaac/deltax_workshop_2022/raw/main/slides/DeltaX_FieldData_Apps_Workshop_Christensen.pdf)
 - Notebooks:
   - [Above and Belowground biomass](tutorials/DeltaXWorkshop_Field/notebooks_V2/Module1_Biomass.ipynb)
   - [Sediment Accretion Using Feldspar](tutorials/DeltaXWorkshop_Field/notebooks_V2/Module_2_Sediment_Accretion.ipynb)
@@ -30,7 +30,7 @@ Lecture content and Notebook material as presented are organized and available h
 
 ## Tutorial 2. Airborne Visible/Infrared Imaging Spectrometer—Next Generation (AVIRIS-NG)
 ***Instructor: Daniel Jensen***
-- Slides: [AVIRIS-NG Data Overview and Access](slides/DeltaX_AVIRISNG_Apps_Workshop_Jensen.pdf)
+- Slides: [AVIRIS-NG Data Overview and Access](https://github.com/ornldaac/deltax_workshop_2022/raw/main/slides/DeltaX_AVIRISNG_Apps_Workshop_Jensen.pdf)
 - Notebook:
   - [AVIRIS-NG Application](tutorials/DeltaX_Workshop_AVIRIS-NG/DeltaX_OpenDataWorkshop_AVIRIS-NG.ipynb)
 - Recordings: 
@@ -57,23 +57,23 @@ Lecture content and Notebook material as presented are organized and available h
 
 ## Tutorial 5. ANUGA Model
 ***Instructor: Kyle Wright***
-- Slides: [ANUGA Model Tutorial](slides/DeltaX_ANUGA_Apps_Workshop_Wright.pdf)
+- Slides: [ANUGA Model Tutorial](https://github.com/ornldaac/deltax_workshop_2022/raw/main/slides/DeltaX_ANUGA_Apps_Workshop_Wright.pdf)
 - Notebook:
   - [Wax Lake & Atchafalaya Delta Model](tutorials/ANUGA_DXWorkshop)
 - Recording: https://youtu.be/Vee-pPyRefg
 
 ## Tutorial 6. Delft3D Model
 ***Instructor: Luca Cortese***
-- Slides: [Delft3D model](slides/DeltaX_Delft3d_Apps_Workshop_Cortese.pdf)
+- Slides: [Delft3D model](https://github.com/ornldaac/deltax_workshop_2022/raw/main/slides/DeltaX_Delft3d_Apps_Workshop_Cortese.pdf)
 - Notebook:
   - [Set up Delft3D model for Delta-X](tutorials/Delft3D)
 - Recording: https://youtu.be/RcGytRMDDIE
   
 # Past workshops
  - **Delta-X Open Data Workshop, November 17, 2021**
-   - [Agenda](DeltaX_2021/2021_Delta-X_Open_Data_Workshop_Agenda.pdf)
-   - [Introduction to Delta-X](DeltaX_2021/2021_Delta-X_Open_Data_Workshop_Introduction.pdf) - Marc Simard
-   - [Datasets](DeltaX_2021/2021_Delta-X_Open_Data_Workshop_Datasets.pdf) - Cathleen Jones
-   - [Accessing Delta-X data at the ORNL DAAC](DeltaX_2021/2021_Delta-X_Open_Data_Workshop_ORNL_DAAC.pdf) - Matt Donovan
-   - [Data Location and Access](DeltaX_2021/2021_Delta-X_Open_Data_Workshop_Website.pdf) - Sarah Flores
+   - [Agenda](https://github.com/ornldaac/deltax_workshop_2022/raw/main/DeltaX_2021/2021_Delta-X_Open_Data_Workshop_Agenda.pdf)
+   - [Introduction to Delta-X](https://github.com/ornldaac/deltax_workshop_2022/raw/main/DeltaX_2021/2021_Delta-X_Open_Data_Workshop_Introduction.pdf) - Marc Simard
+   - [Datasets](https://github.com/ornldaac/deltax_workshop_2022/raw/main/DeltaX_2021/2021_Delta-X_Open_Data_Workshop_Datasets.pdf) - Cathleen Jones
+   - [Accessing Delta-X data at the ORNL DAAC](https://github.com/ornldaac/deltax_workshop_2022/raw/main/DeltaX_2021/2021_Delta-X_Open_Data_Workshop_ORNL_DAAC.pdf) - Matt Donovan
+   - [Data Location and Access](https://github.com/ornldaac/deltax_workshop_2022/raw/main/DeltaX_2021/2021_Delta-X_Open_Data_Workshop_Website.pdf) - Sarah Flores
    - [Recording](https://deltax.jpl.nasa.gov/science/presentations/2021-open-data-workshop/2021_Delta-X_Open_Data_Workshop_webex_recording.mp4)
