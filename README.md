@@ -77,4 +77,5 @@ Lecture content and Notebook material as presented are organized and available h
    - [Accessing Delta-X data at the ORNL DAAC](https://github.com/ornldaac/deltax_workshop_2022/raw/main/DeltaX_2021/2021_Delta-X_Open_Data_Workshop_ORNL_DAAC.pdf) - Matt Donovan
    - [Data Location and Access](https://github.com/ornldaac/deltax_workshop_2022/raw/main/DeltaX_2021/2021_Delta-X_Open_Data_Workshop_Website.pdf) - Sarah Flores
    - [Recording](https://deltax.jpl.nasa.gov/science/presentations/2021-open-data-workshop/2021_Delta-X_Open_Data_Workshop_webex_recording.mp4)
- - **[Delta-X Delta-X Open Data Workshop, June 5, 2023](https://daac.ornl.gov/resources/tutorials/2023_deltax_workshop/)**
+ - **[Delta-X Open Data Workshop, June 5, 2023](https://daac.ornl.gov/resources/tutorials/2023_deltax_workshop/)**
+ - **[Delta-X Applications Workshop, May 8-9, 2024](https://github.com/ornldaac/deltax_workshop_2024)**
